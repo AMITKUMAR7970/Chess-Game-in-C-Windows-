@@ -277,4 +277,4 @@ Contributions welcome! Please feel free to submit pull requests or report issues
 
 **Enjoy your chess game!** ♟️
 
-For questions or issues, please create a GitHub issue or contact the developer.
+
