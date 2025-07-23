@@ -1,0 +1,65 @@
+# Build directories
+build/
+bin/
+lib/
+out/
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# IDE files
+*.vcproj
+*.vcproj.*.user
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Code::Blocks
+*.cbp
+*.layout
+*.depend
+
+# Qt Creator
+CMakeLists.txt.user*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Game save files (optional - uncomment if you don't want to track saves)
+# *.sav
+# *.pgn
